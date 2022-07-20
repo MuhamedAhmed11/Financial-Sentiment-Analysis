@@ -19,7 +19,7 @@ By the end of the notebook there's a comparison between results of each model
 ### Steps:
 I. Reading Data: using pandas
 
-II. Preprocessing Data: using re, nltk , stopwords packages and finally make the data balanced
+II. Preprocessing Data: using re, nltk , stopwords packages for removing punctuations, references and hashtags, special characters, and multiple spaces
 
 III. Classifier Model: using **CountVectorizer** class from sickit-learn package to convert word2vec, then split data into train and test, next fit the **Naive Bayes** model with data, and finally Evaluate the Model
 
@@ -30,4 +30,4 @@ IV. Sequential Model: I used 3 differnet sequential models such as **RNN**, **LS
 ## Results
 ![](./Captures/results.jpg)
 
-As shown, GRU and LSTM got the highest accuracy score
+As shown, GRU and LSTM got the highest accuracy score on Test Data
