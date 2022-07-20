@@ -9,7 +9,7 @@ The following data is intended for advancing financial sentiment analysis resear
 Malo, Pekka, et al. "Good debt or bad debt: Detecting semantic orientations in economic texts." Journal of the Association for Information Science and Technology 65.4 (2014): 782-796.
 
 
-## My Work
+## [My Work](https://www.kaggle.com/code/mohamedahmed10/financial-sentiment-analysis)
 In this notebook I did Financial Sentiment Analysis by using different models
 - First, Classification Models: Naive Bayes Classification Model
 - Then, Sequential Models: RNN, LSTM, GRU
